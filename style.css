@@ -8,8 +8,8 @@
 .header {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url(images/background.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+    url(images/paris-1175022_1920.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -73,7 +73,7 @@ nav ul li a {
   align-items: center;
   justify-content: space-between;
   color: #fff;
-  margin-top: 0;
+  margin-top: 100px;
 }
 .row span {
   display: flex;
@@ -87,10 +87,11 @@ nav ul li a {
 }
 .content span {
   font-size: 22px;
+  margin-top: 50px;
 }
 .content h1 {
   font-size: 75px;
-  margin-top: 30px;
+  margin-top: 50x;
   margin-bottom: 20px;
 }
 .row span.active {
