@@ -103,10 +103,10 @@ nav ul li a {
   margin-left: -10px;
   margin-right: 10px;
 }
-.info {
+#weather {
   position: relative;
 }
-.info::before {
+#weather ::before {
   content: "";
   background: rgba(225, 225, 225, 0.6);
   width: 2px;
